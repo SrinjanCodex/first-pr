@@ -7,5 +7,6 @@ Add yourself below 👇
 
 ## Contributors
 
-- [Debpriyo Ghosal] — SDE @ Kubar Labs 
+- [Debpriyo Ghosal] — SDE @ Kubar Labs
+- [Deb Gh] — SDE @ Kubar Labs
 - [Your Name] — Your description
