@@ -9,4 +9,5 @@ Add yourself below 👇
 
 - [Debpriyo Ghosal] — SDE @ Kubar Labs 
 - [Daipayan Maitra] — STUDENT @ NSEC 
+- [Srinjan Bera] — STUDENT @ NSEC ECE 
 - [Your Name] — Your description
